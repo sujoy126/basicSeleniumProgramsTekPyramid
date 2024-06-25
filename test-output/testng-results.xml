@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T15:57:12 IST" name="Default suite" finished-at="2024-06-24T16:01:08 IST" duration-ms="235889">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T15:57:12 IST" name="Default test" finished-at="2024-06-24T16:01:08 IST" duration-ms="235889">
+      <class name="selenium.practiceTest.JavaScriptAlertPopUpTest">
+        <test-method signature="alertPopUps()[pri:0, instance:selenium.practiceTest.JavaScriptAlertPopUpTest@72e5a8e]" started-at="2024-06-24T15:57:12 IST" name="alertPopUps" finished-at="2024-06-24T16:01:08 IST" duration-ms="235794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertPopUps -->
+      </class> <!-- selenium.practiceTest.JavaScriptAlertPopUpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
